@@ -1,11 +1,10 @@
-### :devil: About Me :
+### 🇱🇰: About Me :
 
 <p align="center">
   <img src="https://i.imgur.com/grqkPgn.jpeg" />
 </p>
 
 - 👋 Hi, I’m @nethmintha_nimsara
-- 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...

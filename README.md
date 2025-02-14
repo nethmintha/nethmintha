@@ -1,10 +1,11 @@
 ### :unicorn: About Me :
 
 <p align="center">
-  <img src="https://telegra.ph/file/120d278888ea8e8e15b22.jpg" />
+  <img src="https://i.imgur.com/grqkPgn.jpeg" />
 </p>
 
-- 👋 Hi, I’m @nethmintha
+- 👋 Hi, I’m @nethmintha_nimsara
+- 🇱🇰 Im Sri Lanka
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...

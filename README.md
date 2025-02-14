@@ -1,4 +1,4 @@
-### 🇱🇰: About Me :
+### :🇱🇰: About Me :
 
 <p align="center">
   <img src="https://i.imgur.com/grqkPgn.jpeg" />

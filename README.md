@@ -1,4 +1,8 @@
-url "https://i.imgur.com/grqkPgn.jpeg"
+### :unicorn: About Me :
+
+<p align="center">
+  <img src="https://telegra.ph/file/120d278888ea8e8e15b22.jpg" />
+</p>
 
 - 👋 Hi, I’m @nethmintha
 - 👀 I’m interested in ...
